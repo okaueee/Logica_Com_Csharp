@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\bin\Debug\multiplo_de_3.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\bin\Debug\multiplo_de_3.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\bin\Debug\multiplo_de_3.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\obj\Debug\multiplo_de_3.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\obj\Debug\multiplo_de_3.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\obj\Debug\multiplo_de_3.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\multiplo_de_3\multiplo_de_3\obj\Debug\multiplo_de_3.pdb

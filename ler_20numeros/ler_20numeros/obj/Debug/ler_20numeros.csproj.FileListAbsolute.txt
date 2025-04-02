@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\bin\Debug\ler_20numeros.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\bin\Debug\ler_20numeros.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\bin\Debug\ler_20numeros.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\obj\Debug\ler_20numeros.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\obj\Debug\ler_20numeros.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\obj\Debug\ler_20numeros.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\ler_20numeros\ler_20numeros\obj\Debug\ler_20numeros.pdb

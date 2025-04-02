@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\bin\Debug\Real_nota.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\bin\Debug\Real_nota.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\bin\Debug\Real_nota.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\obj\Debug\Real_nota.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\obj\Debug\Real_nota.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\obj\Debug\Real_nota.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\Real_nota\Real_nota\obj\Debug\Real_nota.pdb

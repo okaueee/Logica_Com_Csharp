@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\pares_enquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21992A39-7EBA-4BE9-B4FB-B5E620AB93E2}|pares_enquanto\\pares_enquanto.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\pares_enquanto\\pares_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21992A39-7EBA-4BE9-B4FB-B5E620AB93E2}|pares_enquanto\\pares_enquanto.csproj|solutionrelative:pares_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\pares_enquanto\\pares_enquanto\\Program.cs",
+              "RelativeDocumentMoniker": "pares_enquanto\\Program.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\pares_enquanto\\pares_enquanto\\Program.cs*",
+              "RelativeToolTip": "pares_enquanto\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:28:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

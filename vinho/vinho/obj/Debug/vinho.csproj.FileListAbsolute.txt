@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\bin\Debug\vinho.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\bin\Debug\vinho.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\bin\Debug\vinho.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\obj\Debug\vinho.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\obj\Debug\vinho.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\obj\Debug\vinho.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\vinho\vinho\obj\Debug\vinho.pdb

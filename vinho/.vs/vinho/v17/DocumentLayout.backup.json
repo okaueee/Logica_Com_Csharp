@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\vinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4861447C-2E4A-4489-A891-FB9CF4548E4E}|vinho\\vinho.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\vinho\\vinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4861447C-2E4A-4489-A891-FB9CF4548E4E}|vinho\\vinho.csproj|solutionrelative:vinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\vinho\\vinho\\Program.cs",
+              "RelativeDocumentMoniker": "vinho\\Program.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\vinho\\vinho\\Program.cs*",
+              "RelativeToolTip": "vinho\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:12:46.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

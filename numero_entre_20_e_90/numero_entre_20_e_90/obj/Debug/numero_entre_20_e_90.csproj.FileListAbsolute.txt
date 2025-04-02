@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\bin\Debug\numero_entre_20_e_90.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\bin\Debug\numero_entre_20_e_90.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\bin\Debug\numero_entre_20_e_90.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\obj\Debug\numero_entre_20_e_90.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\obj\Debug\numero_entre_20_e_90.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\obj\Debug\numero_entre_20_e_90.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\numero_entre_20_e_90\numero_entre_20_e_90\obj\Debug\numero_entre_20_e_90.pdb

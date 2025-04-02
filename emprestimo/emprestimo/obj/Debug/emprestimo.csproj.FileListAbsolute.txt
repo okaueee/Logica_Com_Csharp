@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\bin\Debug\emprestimo.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\bin\Debug\emprestimo.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\bin\Debug\emprestimo.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\obj\Debug\emprestimo.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\obj\Debug\emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\obj\Debug\emprestimo.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\emprestimo\emprestimo\obj\Debug\emprestimo.pdb

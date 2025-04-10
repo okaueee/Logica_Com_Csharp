@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\cadastrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\cadastrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\menu\\menu\\cadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138E04-E0E6-45E9-B620-142ADE67ACA4}|menu\\menu.csproj|solutionrelative:menu\\cadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarPedido.cs",
+              "RelativeDocumentMoniker": "menu\\CadastrarPedido.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarPedido.cs*",
+              "RelativeToolTip": "menu\\CadastrarPedido.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:00:27.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarFornecedor.cs",
+              "RelativeDocumentMoniker": "menu\\CadastrarFornecedor.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarFornecedor.cs*",
+              "RelativeToolTip": "menu\\CadastrarFornecedor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:01:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarProdutos.cs",
+              "RelativeDocumentMoniker": "menu\\CadastrarProdutos.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarProdutos.cs*",
+              "RelativeToolTip": "menu\\CadastrarProdutos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:59:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarFuncionario.cs",
+              "RelativeDocumentMoniker": "menu\\CadastrarFuncionario.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarFuncionario.cs*",
+              "RelativeToolTip": "menu\\CadastrarFuncionario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:57:33.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarCliente.cs",
+              "RelativeDocumentMoniker": "menu\\CadastrarCliente.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\CadastrarCliente.cs*",
+              "RelativeToolTip": "menu\\CadastrarCliente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:55:14.457Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\Program.cs",
               "RelativeDocumentMoniker": "menu\\Program.cs",
-              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\Program.cs",
-              "RelativeToolTip": "menu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\menu\\menu\\Program.cs*",
+              "RelativeToolTip": "menu\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawDAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T11:40:40.375Z",
               "EditorCaption": ""

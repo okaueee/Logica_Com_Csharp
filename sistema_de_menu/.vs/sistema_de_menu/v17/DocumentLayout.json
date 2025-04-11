@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\leia_dois_valores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\leia_dois_valores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\ler_20numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\ler_20numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\multiplo_de_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\multiplo_de_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\nota_dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\nota_dinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\pares2e100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\pares2e100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\some_dois_numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\some_dois_numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\pares_enquanto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\pares_enquanto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\peso_altura_imc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\peso_altura_imc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\peso_peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\peso_peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\positivo_negativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\positivo_negativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\sua_idade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\sua_idade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\soma_3numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\soma_3numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\sobre_multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\sobre_multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\salario_minimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\salario_minimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\reajuste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\reajuste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|c:\\users\\kaue.osilva1\\source\\repos\\logica_com_csharp\\sistema_de_menu\\sistema_de_menu\\atividade_vinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E2374B-8BFF-45D6-86FA-D04345CB86A0}|sistema_de_menu\\sistema_de_menu.csproj|solutionrelative:sistema_de_menu\\atividade_vinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pares2e100.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pares2e100.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\pares2e100.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pares2e100.cs",
+              "RelativeToolTip": "sistema_de_menu\\pares2e100.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:27:10.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "la\u00E7o_repti\u00E7ao_tabuada.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs",
+              "RelativeToolTip": "sistema_de_menu\\la\u00E7o_repti\u00E7ao_tabuada.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:45:02.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leia_dois_valores.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\leia_dois_valores.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\leia_dois_valores.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\leia_dois_valores.cs",
+              "RelativeToolTip": "sistema_de_menu\\leia_dois_valores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:42:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ler_20numeros.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\ler_20numeros.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\ler_20numeros.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\ler_20numeros.cs",
+              "RelativeToolTip": "sistema_de_menu\\ler_20numeros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:40:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "multiplo_de_3.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\multiplo_de_3.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\multiplo_de_3.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\multiplo_de_3.cs",
+              "RelativeToolTip": "sistema_de_menu\\multiplo_de_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:36:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pagamento.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\pagamento.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pagamento.cs",
+              "RelativeToolTip": "sistema_de_menu\\pagamento.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:24:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\Program.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\Program.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\Program.cs",
+              "RelativeToolTip": "sistema_de_menu\\Program.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:20:09.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nota_dinheiro.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\nota_dinheiro.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\nota_dinheiro.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\nota_dinheiro.cs",
+              "RelativeToolTip": "sistema_de_menu\\nota_dinheiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:34:05.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pares_enquanto.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pares_enquanto.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\pares_enquanto.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\pares_enquanto.cs",
+              "RelativeToolTip": "sistema_de_menu\\pares_enquanto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:22:00.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "peso_altura_imc.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\peso_altura_imc.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\peso_altura_imc.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\peso_altura_imc.cs",
+              "RelativeToolTip": "sistema_de_menu\\peso_altura_imc.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:18:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "peso_peixe.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\peso_peixe.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\peso_peixe.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\peso_peixe.cs",
+              "RelativeToolTip": "sistema_de_menu\\peso_peixe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:52.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "some_dois_numeros.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\some_dois_numeros.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\some_dois_numeros.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\some_dois_numeros.cs",
+              "RelativeToolTip": "sistema_de_menu\\some_dois_numeros.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:50:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "positivo_negativo.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\positivo_negativo.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\positivo_negativo.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\positivo_negativo.cs",
+              "RelativeToolTip": "sistema_de_menu\\positivo_negativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:13:54.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "soma_3numeros.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\soma_3numeros.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\soma_3numeros.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\soma_3numeros.cs",
+              "RelativeToolTip": "sistema_de_menu\\soma_3numeros.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:55:41.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sobre_multa.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\sobre_multa.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\sobre_multa.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\sobre_multa.cs",
+              "RelativeToolTip": "sistema_de_menu\\sobre_multa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:58:02.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "salario_minimo.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\salario_minimo.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\salario_minimo.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\salario_minimo.cs",
+              "RelativeToolTip": "sistema_de_menu\\salario_minimo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:00:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "reajuste.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\reajuste.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\reajuste.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\reajuste.cs",
+              "RelativeToolTip": "sistema_de_menu\\reajuste.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:10:03.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sua_idade.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\sua_idade.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\sua_idade.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\sua_idade.cs",
+              "RelativeToolTip": "sistema_de_menu\\sua_idade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:45:56.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "atividade_vinho.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\atividade_vinho.cs",
+              "RelativeDocumentMoniker": "sistema_de_menu\\atividade_vinho.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\source\\repos\\Logica_Com_Csharp\\sistema_de_menu\\sistema_de_menu\\atividade_vinho.cs",
+              "RelativeToolTip": "sistema_de_menu\\atividade_vinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:40:59.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

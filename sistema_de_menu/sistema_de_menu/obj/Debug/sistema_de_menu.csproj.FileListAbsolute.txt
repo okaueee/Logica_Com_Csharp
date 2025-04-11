@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\obj\Debug\sistema_de_menu.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\obj\Debug\sistema_de_menu.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\bin\Debug\sistema_de_menu.exe.config
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\bin\Debug\sistema_de_menu.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\bin\Debug\sistema_de_menu.pdb
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\obj\Debug\sistema_de_menu.exe
+C:\Users\kaue.osilva1\source\repos\Logica_Com_Csharp\sistema_de_menu\sistema_de_menu\obj\Debug\sistema_de_menu.pdb

@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\obj\Debug\jogador.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\obj\Debug\jogador.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\bin\Debug\jogador.exe.config
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\bin\Debug\jogador.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\bin\Debug\jogador.pdb
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\obj\Debug\jogador.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\jogador\jogador\obj\Debug\jogador.pdb

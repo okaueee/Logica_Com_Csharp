@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\bin\Debug\arrey_poookemons.exe.config
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\bin\Debug\arrey_poookemons.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\bin\Debug\arrey_poookemons.pdb
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\obj\Debug\arrey_poookemons.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\obj\Debug\arrey_poookemons.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\obj\Debug\arrey_poookemons.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\arrey_poookemons\arrey_poookemons\obj\Debug\arrey_poookemons.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaue.osilva1\\Documents\\GitHub\\Logica_Com_Csharp\\arrey_poookemons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A83400B-599C-4B33-8754-5C2484233BA9}|arrey_poookemons\\arrey_poookemons.csproj|c:\\users\\kaue.osilva1\\documents\\github\\logica_com_csharp\\arrey_poookemons\\arrey_poookemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A83400B-599C-4B33-8754-5C2484233BA9}|arrey_poookemons\\arrey_poookemons.csproj|solutionrelative:arrey_poookemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaue.osilva1\\Documents\\GitHub\\Logica_Com_Csharp\\arrey_poookemons\\arrey_poookemons\\Program.cs",
+              "RelativeDocumentMoniker": "arrey_poookemons\\Program.cs",
+              "ToolTip": "C:\\Users\\kaue.osilva1\\Documents\\GitHub\\Logica_Com_Csharp\\arrey_poookemons\\arrey_poookemons\\Program.cs",
+              "RelativeToolTip": "arrey_poookemons\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:38:30.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

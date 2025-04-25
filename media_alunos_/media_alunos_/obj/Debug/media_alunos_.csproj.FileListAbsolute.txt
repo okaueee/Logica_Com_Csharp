@@ -1,0 +1,7 @@
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\bin\Debug\media_alunos_.exe.config
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\bin\Debug\media_alunos_.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\bin\Debug\media_alunos_.pdb
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\obj\Debug\media_alunos_.csproj.AssemblyReference.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\obj\Debug\media_alunos_.csproj.CoreCompileInputs.cache
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\obj\Debug\media_alunos_.exe
+C:\Users\kaue.osilva1\Documents\GitHub\Logica_Com_Csharp\media_alunos_\media_alunos_\obj\Debug\media_alunos_.pdb
